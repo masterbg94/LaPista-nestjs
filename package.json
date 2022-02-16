@@ -32,7 +32,7 @@
     "fastify-compress": "^4.0.1",
     "handlebars": "^4.7.6",
     "mysql": "^2.18.1",
-    "nodemailer": "^6.4.17",
+    "nodemailer": "^6.6.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.6.3",
